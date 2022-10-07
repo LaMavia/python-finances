@@ -1,0 +1,23 @@
+2022:
+  9:
+    budget: 200
+    monthly:
+      - [Dorms, 34.70, accommodation]
+    29:
+      - [Rossmann, 29.48, hygiene]
+      - [Biedronka, 59.89, food, "normalne"]
+      - [Decathlon, 94.98, hygiene, "flip-flops and tape"]
+      - [TopMarket, 10.22, hygiene, "dish soap and sponges"]
+      - [sth, 1.00, income x]
+      - [sth, 2.00, income y]
+
+  10:
+    budget: 1200
+    monthly:
+      - [Dorms, 598.00, accommodation]
+    1:
+      - [Pull&Bear, 114.80, clothes, "jeans, and a hair claw"]
+      - [CCC, 200.99, clothes, "shoes"]
+      - [Biedronka, 11.75, food, "yoghurts, cebollas und Schokolade"]
+      - [SuperPharm, 37.49, hygiene, "kosmetyczka"]
+      - [Biedronka, 17.68, food, "milk, tomatoes, resins, spices"]
